@@ -25,3 +25,8 @@ MIT License – open science, replicate freely, improve collaboratively.
 ## Contact
 Original author: Ashley Clark. Developed collaboratively with AI support.
  Spin Black Hole model
+ ## Attribution
+
+If you use this work in academic research, please cite:  
+**Ashley (2025), Structured Spin Black Hole Echo Toolkit**, GitHub.com/srgeopoc/SSBH-Echoes
+
